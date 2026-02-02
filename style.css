@@ -1,0 +1,39 @@
+
+
+  body{
+    background-color: black;
+    color: white;
+   font-family: "Montserrat", sans-serif;
+}
+
+
+.more{
+  margin-top: 20px;
+  text-align: center;
+}
+
+
+.spider-text{
+  margin: 50px;
+  text-align: center;
+  font-size: 25px;
+}
+
+body img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 400;
+  height: 400px;
+}
+
+.html{
+  text-align: center;
+}
+
+body a {
+  color: beige;
+  text-decoration: none;
+  text-align: center;
+  margin: 100px;
+}
